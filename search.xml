@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>my new post</title>
+      <link href="/2019/08/03/my-new-post/"/>
+      <url>/2019/08/03/my-new-post/</url>
+      
+        <content type="html"><![CDATA[<h1 id="3"><a href="#3" class="headerlink" title="3"></a>3</h1><h1 id="4"><a href="#4" class="headerlink" title="4"></a>4</h1>]]></content>
+      
+      
+      <categories>
+          
+          <category> new </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 2 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>newpapername</title>
       <link href="/2019/08/03/newpapername/"/>
       <url>/2019/08/03/newpapername/</url>
@@ -11,6 +36,18 @@
         <content type="html"><![CDATA[<h1 id="1"><a href="#1" class="headerlink" title="1"></a>1</h1><h1 id="2"><a href="#2" class="headerlink" title="2"></a>2</h1>]]></content>
       
       
+      <categories>
+          
+          <category> new </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 1 </tag>
+            
+        </tags>
       
     </entry>
     
